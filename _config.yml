@@ -1,4 +1,3 @@
-layout_spectrum: 0.6322235949337482
 typography_spectrum: 0.08375522121787071
 color:
   brandStrength: 0.010366171365603805
@@ -11,4 +10,15 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+opengraph:
+  appId: 'https://www.facebook.com/betterwellnesspt/'
+layout_spectrum: 0.6322235949337482
+author:
+  name: Heather Flexer
+  email: betterwellnesspt@gmail.com
+  url: 'http://www.betterwellnesspt.com/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd85359a-ad4a-4ae4-be00-292c6e379059.png
 name: Better Wellness PT
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/50ce5b86-5828-4da7-bfd2-4535f7edf837.png
