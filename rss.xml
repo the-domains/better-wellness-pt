@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Better Wellness PT]]></title>
+        <description><![CDATA[Better Wellness PT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jul 2016 19:12:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Consumer Choice to Directly Access Physical Therapy Services - New York Physical Therapy Association]]></title>
+            <description><![CDATA[<article><h1>Consumer Choice to Directly Access Physical Therapy Services - New York Physical Therapy Association</h1><p>Did you know you do not need an MD referral to see a physical therapist?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c6c52cf4262ce5ca9a8c31aff35dec4/noop.jpg?input=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160118054721%2Fhttp%3A%2F%2Fwww.nypta.org%2Fgraphics%2Flogo.jpg"></article>]]></description>
+            <link>http://www.nypta.org/?47</link>
+            <guid isPermaLink="false">595dd5c1-83d4-417d-8c6e-b63434bcf1e4</guid>
+            <pubDate>Wed, 20 Jul 2016 19:12:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
