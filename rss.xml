@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Better Wellness PT]]></title>
         <description><![CDATA[Better Wellness PT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.betterwellnesspt.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 19:12:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jul 2016 19:12:40 GMT</lastBuildDate>
+        <atom:link href="http://www.betterwellnesspt.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5047564a-6918-4e68-adba-2280280a1f7d.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5047564a-6918-4e68-adba-2280280a1f7d.jpg</link>
+            <guid isPermaLink="false">788892ad-d70c-40ed-b240-507226bcae46</guid>
+            <pubDate>Wed, 20 Jul 2016 19:12:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Consumer Choice to Directly Access Physical Therapy Services - New York Physical Therapy Association]]></title>
             <description><![CDATA[<article><h1>Consumer Choice to Directly Access Physical Therapy Services - New York Physical Therapy Association</h1><p>Did you know you do not need an MD referral to see a physical therapist?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c6c52cf4262ce5ca9a8c31aff35dec4/noop.jpg?input=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160118054721%2Fhttp%3A%2F%2Fwww.nypta.org%2Fgraphics%2Flogo.jpg"></article>]]></description>
